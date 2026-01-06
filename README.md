@@ -65,6 +65,3 @@
 3. **Extract & Run:** Unzip and launch the simulation tool.  
 
 
-## ⚠️ **Important Disclaimer**
-
-This **Tactical Hack Framework** is not designed to interact with **VALORANT** or any other game directly.
